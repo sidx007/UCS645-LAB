@@ -1,9 +1,0 @@
-# Ignore everything
-*
-
-# But not these files
-!.gitignore
-!*.cpp
-!README
-!README.md
-!README.txt
