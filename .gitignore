@@ -1,0 +1,23 @@
+# C/C++ build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.out
+*.exe
+*.stackdump
+
+# Assignment binary targets
+correlate_lab
+correlate_lab.exe
+
+# Editor and OS noise
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
