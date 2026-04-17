@@ -1,0 +1,27 @@
+# Build output directories
+bin/
+obj/
+
+# Generic C/C++ artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.out
+*.exe
+
+# MPI run artifacts and temporary outputs
+*.log
+*.tmp
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
